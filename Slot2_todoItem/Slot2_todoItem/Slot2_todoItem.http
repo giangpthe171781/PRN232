@@ -1,0 +1,6 @@
+@Slot2_todoItem_HostAddress = http://localhost:5028
+
+GET {{Slot2_todoItem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
