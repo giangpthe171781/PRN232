@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Slot2_todoItem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0366e39d90bd5280edc717c9c9624a1252c8ff4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Slot2_todoItem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Slot2_todoItem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\",
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|c:\\users\\acer\\desktop\\1_prn232\\slot2_todoitem\\slot2_todoitem\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|solutionrelative:slot2_todoitem\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|c:\\users\\acer\\desktop\\1_prn232\\slot2_todoitem\\slot2_todoitem\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|solutionrelative:slot2_todoitem\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|c:\\users\\acer\\desktop\\1_prn232\\slot2_todoitem\\slot2_todoitem\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|solutionrelative:slot2_todoitem\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|c:\\users\\acer\\desktop\\1_prn232\\slot2_todoitem\\slot2_todoitem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|solutionrelative:slot2_todoitem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|c:\\users\\acer\\desktop\\1_prn232\\slot2_todoitem\\slot2_todoitem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|c:\\users\\acer\\desktop\\prn232\\slot2_todoitem\\slot2_todoitem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|solutionrelative:slot2_todoitem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|c:\\users\\acer\\desktop\\1_prn232\\slot2_todoitem\\slot2_todoitem\\slot2_todoitem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|c:\\users\\acer\\desktop\\prn232\\slot2_todoitem\\slot2_todoitem\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|solutionrelative:slot2_todoitem\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|c:\\users\\acer\\desktop\\prn232\\slot2_todoitem\\slot2_todoitem\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|solutionrelative:slot2_todoitem\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|c:\\users\\acer\\desktop\\prn232\\slot2_todoitem\\slot2_todoitem\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|solutionrelative:slot2_todoitem\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|c:\\users\\acer\\desktop\\prn232\\slot2_todoitem\\slot2_todoitem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|solutionrelative:slot2_todoitem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|c:\\users\\acer\\desktop\\prn232\\slot2_todoitem\\slot2_todoitem\\slot2_todoitem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5097165C-86C7-4833-A31D-16F583577AD2}|Slot2_todoItem\\Slot2_todoItem.csproj|solutionrelative:slot2_todoitem\\slot2_todoitem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "TodoItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\Controllers\\TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\Controllers\\TodoItemsController.cs",
               "RelativeDocumentMoniker": "Slot2_todoItem\\Controllers\\TodoItemsController.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\Controllers\\TodoItemsController.cs",
               "RelativeToolTip": "Slot2_todoItem\\Controllers\\TodoItemsController.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAiwDQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,26 +51,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\Program.cs",
               "RelativeDocumentMoniker": "Slot2_todoItem\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\Program.cs",
               "RelativeToolTip": "Slot2_todoItem\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T01:18:00.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T01:18:00.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TodoContext.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\Models\\TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\Models\\TodoContext.cs",
               "RelativeDocumentMoniker": "Slot2_todoItem\\Models\\TodoContext.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\Models\\TodoContext.cs",
               "RelativeToolTip": "Slot2_todoItem\\Models\\TodoContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T00:58:28.31Z",
               "EditorCaption": ""
@@ -78,23 +77,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Slot2_todoItem",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\Slot2_todoItem.csproj",
+              "Title": "Slot2_todoItem.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\Slot2_todoItem.csproj",
               "RelativeDocumentMoniker": "Slot2_todoItem\\Slot2_todoItem.csproj",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\Slot2_todoItem.csproj",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\Slot2_todoItem.csproj",
               "RelativeToolTip": "Slot2_todoItem\\Slot2_todoItem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-15T00:56:14.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T00:56:14.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TodoItem.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\Models\\TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "Slot2_todoItem\\Models\\TodoItem.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\Models\\TodoItem.cs",
               "RelativeToolTip": "Slot2_todoItem\\Models\\TodoItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,13 +101,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\appsettings.json",
               "RelativeDocumentMoniker": "Slot2_todoItem\\appsettings.json",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\appsettings.json",
               "RelativeToolTip": "Slot2_todoItem\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-15T01:07:52.295Z",
               "EditorCaption": ""

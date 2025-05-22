@@ -8028,11 +8028,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\Slot2_todoItem.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\Slot2_todoItem.csproj",
       "projectName": "Slot2_todoItem",
-      "projectPath": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\Slot2_todoItem.csproj",
+      "projectPath": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\Slot2_todoItem.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\Desktop\\1_PRN232\\Slot2_todoItem\\Slot2_todoItem\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Desktop\\PRN232\\Slot2_todoItem\\Slot2_todoItem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

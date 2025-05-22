@@ -1,0 +1,6 @@
+@Slot3_DemoCodeFirst_HostAddress = http://localhost:5097
+
+GET {{Slot3_DemoCodeFirst_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
